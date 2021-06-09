@@ -1,0 +1,38 @@
+# IaaS - PaaS - Saas
+
+## Infrastructure as a Service (IaaS) - the most flexible service among the three. The cloud provider takes care of the hardware but operating system maintenance
+and network configuration is the user's responsibilty. 
+
+Provided: Datacenter, Networking Firewall/Security, Server and Storage.
+
+Description:
+CapEx: None. User has no up-front costs.
+Agility: Applications can be made accessible easily. and deprovisioned when necessary
+Management: Shared model of responsibility. Users maintains provisioned services and CSP manages and maintains the cloud infrastructure.
+Consumption-based model: Users operate under and OpEx model and pay only for what they use.
+Skills: No deep skills are required to deploy, use and gain benefit of a public cloud. Customers can rely on the CSP to ensure workloads are safe, secure and highly available.
+Cloud Benefits: Organizations can rely on the CSP to ensure workloads are safe, secure and highly available.
+Flexibility: the most flexible because you have the conttrol to configure and manage the hardware running your application.
+
+
+## Platform as a Service (PaaS) - the cloud provider (CSP) provides the VM and networking and the user deploys their applications into the managed hosting environment
+where developers can upload their applications without having to worry about the physical hardware and storage requirements. 
+
+Provided: Datacenter, Networking Firewall/Security, Server and Data Storage, Operating Systems, Development tools, Database management, Data Analytics.
+
+CapEx: none. No up-front costs.
+Agility: more agile than IaaS and users don't need to configure servers for running applications
+Consumption-based model: Users pay for what they use and operate under the OpEx model
+Skills: no deep skills are required to deploy, use and gain benefit of a public cloud.
+Cloud Benefits: Organizations can rely on the CSP to ensure workloads are safe, secure and highly available. Also, users can gain access to more cutting-edge app 
+development tools. They can then apply those tools across the application's lifecycle.
+Productivity. Users can focus on application development only, because the cloud provider handles all platform management.
+Working with distributed teams as services is easier because the platform is accessed over the internet. You can make the platform available globally more easily.
+Platform limitations. There can be some limitations to a cloud platform that might affect how an application runs. 
+When you're evaluating which PaaS platform is best suited for a workload, be sure to consider any limitations in this area.
+
+Software as a Service (SaaS) - the most cost-efficient service. CSP provides VMs, networking resources, storage and applications. The user only needs to provide data
+example: Excel is available on the VM. The user can open it and upload his data to work with it. 
+
+Provided: Datacenter, Networking Firewall/Security, Server and Data Storage, Operating Systems, Development tools, Database Management, Data ANalytics, Applications.
+
